@@ -1,0 +1,19 @@
+Items: {
+	CloverGun: {
+		Tooltip:
+			'''
+			Right click to zoom out
+			Fires bullets of pure Determination
+			Gains LV for slaying bosses
+			Landing in the inner red zone will fire a piercing critical bullet
+			'''
+		DisplayName: Justice
+	}
+}
+
+Projectiles: {
+	CloverBullet.DisplayName: Justice
+	CloverInvisBullet.DisplayName: Justice
+	CloverMiss.DisplayName: Clover Miss
+	CloverBulletHoming.DisplayName: Justice
+}

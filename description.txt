@@ -1,0 +1,8 @@
+Adds Clover's signature gun from Undertale Yellow.
+
+Scales with progression (based on Calamity damage values - I tried my best to balance it but feedback would be nice).
+
+Currently has some sync issues in multiplayer (SFX, Chat description, Ricochet bullets are invisible to others) but is otherwise functional.
+For PvP, since it is not possible to critically hit players, it is best to aim for the in-between zone.
+
+With Daawnlight Spirit Origin (from Calamity) equipped, the center zone will no longer result in a guaranteed critical hit.
